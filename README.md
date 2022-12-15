@@ -1,2 +1,2 @@
 # CppWeek2Q2
-Week 2 Question 2:-
+Week 2 Question 2:-Define a structure called rectangle which keep track of the length and breadth of a rectangle. Write functions namely input, display dimensions, display area and added to input the dimension of a rectangle, to display the dimensions, to calculate and display the area of a rectangle respectively. Write a main function which define a variable of type rectangle. Invoke date functions in the main and observe the result.
